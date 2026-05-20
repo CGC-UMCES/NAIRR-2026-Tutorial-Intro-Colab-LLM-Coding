@@ -6,7 +6,7 @@ This 1.5-hour beginner-friendly, hands-on tutorial will introduce participants t
 ---
 
 
-### Launch notebooks below:
+### Launch notebooks below (right click on icon and open in a new tab):
 *Prompts Notebook* 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/NAIRR-2026-Tutorial-Intro-Colab-LLM-Coding/blob/main/prompts_LLM_coding_tutorial.ipynb)
 
