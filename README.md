@@ -15,3 +15,6 @@ This 1.5-hour beginner-friendly, hands-on tutorial will introduce participants t
 
 *Cheat Notebook* 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/NAIRR-2026-Tutorial-Intro-Colab-LLM-Coding/blob/main/cheat_LLM_coding_tutorial.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGC-UMCES/NAIRR-2026-Tutorial-Intro-Colab-LLM-Coding/blob/main/test_cheat_LLM_coding_tutorial.ipynb)
